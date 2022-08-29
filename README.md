@@ -1,6 +1,19 @@
 
 This project is about taking a website (act.mit.edu/cavs) and changing the layout, structure, and overall look to make the website function and look much better. Included are all the files that make the whole process come together. Below are instructions on how to build the files.
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
