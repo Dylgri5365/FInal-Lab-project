@@ -1,0 +1,34 @@
+div.mitlogo  {
+   position:fixed;
+   left: 7%;
+   top: 1%;
+   
+  
+}
+div.mitlogo img {
+    
+    width:170px;
+    height:170px;
+   
+ }
+
+ div.mitlogo2  {
+    position:fixed;
+    right: 7%;
+    top: 1%;
+    
+   
+ }
+ div.mitlogo2 img {
+     
+     width:170px;
+     height:170px;
+    
+  }
+
+
+.rendering {
+    display:inline-block;
+    width: 150px;
+    height:150px;
+}
